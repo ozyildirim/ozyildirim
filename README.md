@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Unity Fundamentals**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **yildirimkutay@outlook.com.tr**
 
