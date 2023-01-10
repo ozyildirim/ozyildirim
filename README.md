@@ -1,8 +1,8 @@
 <h3 align="center">Software Engineer from Istanbul</h3>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **yildirimkutay@outlook.com.tr**
 
